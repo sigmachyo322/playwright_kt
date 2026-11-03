@@ -1,1 +1,1 @@
-![Description of image](/playwright_kt/success.png)
+![Playwright test results](./success.png)
