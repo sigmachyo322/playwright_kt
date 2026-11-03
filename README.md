@@ -1,1 +1,1 @@
-![Description of image](/home/sigma/College-coding/playwright_kt/success.png)
+![Description of image](/playwright_kt/success.png)
